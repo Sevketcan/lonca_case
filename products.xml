@@ -1,0 +1,182 @@
+<Products>
+    <Product>
+        <StockCode>1234-bej</StockCode>
+        <Color>Bej</Color>
+        <DiscountedPrice>16.20</DiscountedPrice>
+        <Images>
+            <Image>www.lonca.co/images/1234_bej_1.jpg</Image>
+            <Image>www.lonca.co/images/1234_bej_2.jpg</Image>
+        </Images>
+        <IsDiscounted>False</IsDiscounted>
+        <Name>Nakışlıs Elbise</Name>
+        <Price>16.20</Price>
+        <PriceUnit>USD</PriceUnit>
+        <ProductType>Elbise</ProductType>
+        <Quantity>3</Quantity>
+        <SampleSize>XL</SampleSize>
+        <Series>2S-2M-2L</Series>
+        <Status>Active</Status>
+        <Fabric>%95 Pamuk %5 Polyester</Fabric>
+        <ModelMeasurements>Boy: 1.79m, Göğüs: 88cm, Bel: 62cm, Kalça: 93cm</ModelMeasurements>
+        <ProductMeasurements>Boy: 1.65cm, Kilo: 56</ProductMeasurements>
+        <CreatedAt>2024-01-02T12:13:47.237+00:00</CreatedAt>
+        <UpdatedAt>2024-01-22T05:00:05.125+00:00</UpdatedAt>
+    </Product>
+    <Product>
+        <StockCode>5678-siyah</StockCode>
+        <Color>Siyah</Color>
+        <DiscountedPrice>22.50</DiscountedPrice>
+        <Images>
+            <Image>www.lonca.co/images/5678_siyah_1.jpg</Image>
+            <Image>www.lonca.co/images/5678_siyah_2.jpg</Image>
+        </Images>
+        <IsDiscounted>True</IsDiscounted>
+        <Name>Şifon Bluz</Name>
+        <Price>25.00</Price>
+        <PriceUnit>USD</PriceUnit>
+        <ProductType>Bluz</ProductType>
+        <Quantity>5</Quantity>
+        <SampleSize>M</SampleSize>
+        <Series>1S-2M-2L</Series>
+        <Status>Active</Status>
+        <Fabric>%100 Polyester</Fabric>
+        <ModelMeasurements>Boy: 1.72m, Göğüs: 85cm, Bel: 60cm, Kalça: 90cm</ModelMeasurements>
+        <ProductMeasurements>Boy: 1.70cm, Kilo: 55</ProductMeasurements>
+        <CreatedAt>2024-01-15T09:45:30.000+00:00</CreatedAt>
+        <UpdatedAt>2024-02-01T10:15:00.000+00:00</UpdatedAt>
+    </Product>
+    <Product>
+        <StockCode>9012-mavi</StockCode>
+        <Color>Mavi</Color>
+        <DiscountedPrice>18.99</DiscountedPrice>
+        <Images>
+            <Image>www.lonca.co/images/9012_mavi_1.jpg</Image>
+        </Images>
+        <IsDiscounted>False</IsDiscounted>
+        <Name>Denim Ceket</Name>
+        <Price>18.99</Price>
+        <PriceUnit>USD</PriceUnit>
+        <ProductType>Ceket</ProductType>
+        <Quantity>8</Quantity>
+        <SampleSize>L</SampleSize>
+        <Series>3M-3L-2XL</Series>
+        <Status>Active</Status>
+        <Fabric>%100 Pamuk</Fabric>
+        <ModelMeasurements>Boy: 1.80m, Göğüs: 90cm, Bel: 65cm, Kalça: 95cm</ModelMeasurements>
+        <ProductMeasurements>Boy: 1.70cm, Kilo: 60</ProductMeasurements>
+        <CreatedAt>2024-02-05T08:23:50.000+00:00</CreatedAt>
+        <UpdatedAt>2024-02-20T10:10:30.000+00:00</UpdatedAt>
+    </Product>
+    <Product>
+        <StockCode>3456-yesil</StockCode>
+        <Color>Yeşil</Color>
+        <DiscountedPrice>15.00</DiscountedPrice>
+        <Images>
+            <Image>www.lonca.co/images/3456_yesil_1.jpg</Image>
+            <Image>www.lonca.co/images/3456_yesil_2.jpg</Image>
+        </Images>
+        <IsDiscounted>True</IsDiscounted>
+        <Name>Örme Kazak</Name>
+        <Price>20.00</Price>
+        <PriceUnit>USD</PriceUnit>
+        <ProductType>Kazak</ProductType>
+        <Quantity>6</Quantity>
+        <SampleSize>M</SampleSize>
+        <Series>2S-3M-1L</Series>
+        <Status>Active</Status>
+        <Fabric>%80 Yün %20 Akrilik</Fabric>
+        <ModelMeasurements>Boy: 1.75m, Göğüs: 86cm, Bel: 64cm, Kalça: 91cm</ModelMeasurements>
+        <ProductMeasurements>Boy: 1.60cm, Kilo: 50</ProductMeasurements>
+        <CreatedAt>2024-02-12T13:00:00.000+00:00</CreatedAt>
+        <UpdatedAt>2024-02-28T14:30:00.000+00:00</UpdatedAt>
+    </Product>
+    <Product>
+        <StockCode>7890-kirmizi</StockCode>
+        <Color>Kırmızı</Color>
+        <DiscountedPrice>25.50</DiscountedPrice>
+        <Images>
+            <Image>www.lonca.co/images/7890_kirmizi_1.jpg</Image>
+        </Images>
+        <IsDiscounted>False</IsDiscounted>
+        <Name>Deri Ceket</Name>
+        <Price>30.00</Price>
+        <PriceUnit>USD</PriceUnit>
+        <ProductType>Ceket</ProductType>
+        <Quantity>10</Quantity>
+        <SampleSize>L</SampleSize>
+        <Series>4S-3M-3L</Series>
+        <Status>Active</Status>
+        <Fabric>%100 Deri</Fabric>
+        <ModelMeasurements>Boy: 1.82m, Göğüs: 95cm, Bel: 70cm, Kalça: 98cm</ModelMeasurements>
+        <ProductMeasurements>Boy: 1.75cm, Kilo: 65</ProductMeasurements>
+        <CreatedAt>2024-02-20T12:00:00.000+00:00</CreatedAt>
+        <UpdatedAt>2024-03-01T15:00:00.000+00:00</UpdatedAt>
+    </Product>
+    <Product>
+        <StockCode>2345-gri</StockCode>
+        <Color>Gri</Color>
+        <DiscountedPrice>18.00</DiscountedPrice>
+        <Images>
+            <Image>www.lonca.co/images/2345_gri_1.jpg</Image>
+        </Images>
+        <IsDiscounted>True</IsDiscounted>
+        <Name>Sweatshirt</Name>
+        <Price>22.00</Price>
+        <PriceUnit>USD</PriceUnit>
+        <ProductType>Sweatshirt</ProductType>
+        <Quantity>12</Quantity>
+        <SampleSize>XL</SampleSize>
+        <Series>5M-3L-4XL</Series>
+        <Status>Active</Status>
+        <Fabric>%60 Pamuk %40 Polyester</Fabric>
+        <ModelMeasurements>Boy: 1.78m, Göğüs: 92cm, Bel: 68cm, Kalça: 97cm</ModelMeasurements>
+        <ProductMeasurements>Boy: 1.75cm, Kilo: 63</ProductMeasurements>
+        <CreatedAt>2024-02-25T14:45:30.000+00:00</CreatedAt>
+        <UpdatedAt>2024-03-05T12:30:00.000+00:00</UpdatedAt>
+    </Product>
+    <Product>
+        <StockCode>6543-sari</StockCode>
+        <Color>Sarı</Color>
+        <DiscountedPrice>20.00</DiscountedPrice>
+        <Images>
+            <Image>www.lonca.co/images/6543_sari_1.jpg</Image>
+            <Image>www.lonca.co/images/6543_sari_2.jpg</Image>
+        </Images>
+        <IsDiscounted>True</IsDiscounted>
+        <Name>Gömlek</Name>
+        <Price>25.00</Price>
+        <PriceUnit>USD</PriceUnit>
+        <ProductType>Gömlek</ProductType>
+        <Quantity>15</Quantity>
+        <SampleSize>L</SampleSize>
+        <Series>6S-5M-4L</Series>
+        <Status>Active</Status>
+        <Fabric>%100 Pamuk</Fabric>
+        <ModelMeasurements>Boy: 1.70m, Göğüs: 88cm, Bel: 64cm, Kalça: 92cm</ModelMeasurements>
+        <ProductMeasurements>Boy: 1.68cm, Kilo: 58</ProductMeasurements>
+        <CreatedAt>2024-03-02T09:30:45.000+00:00</CreatedAt>
+        <UpdatedAt>2024-03-10T16:00:00.000+00:00</UpdatedAt>
+    </Product>
+    <Product>
+        <StockCode>8765-mor</StockCode>
+        <Color>Mor</Color>
+        <DiscountedPrice>30.00</DiscountedPrice>
+        <Images>
+            <Image>www.lonca.co/images/8765_mor_1.jpg</Image>
+        </Images>
+        <IsDiscounted>False</IsDiscounted>
+        <Name>Kot Pantolon</Name>
+        <Price>35.00</Price>
+        <PriceUnit>USD</PriceUnit>
+        <ProductType>Pantolon</ProductType>
+        <Quantity>20</Quantity>
+        <SampleSize>M</SampleSize>
+        <Series>5M-10L-5XL</Series>
+        <Status>Active</Status>
+        <Fabric>%100 Pamuk</Fabric>
+        <ModelMeasurements>Boy: 1.80m, Göğüs: 90cm, Bel: 65cm, Kalça: 100cm</ModelMeasurements>
+        <ProductMeasurements>Boy: 1.78cm, Kilo: 60</ProductMeasurements>
+        <CreatedAt>2024-03-05T12:15:00.000+00:00</CreatedAt>
+        <UpdatedAt>2024-03-15T18:30:00.000+00:00</UpdatedAt>
+    </Product>
+</Products>
